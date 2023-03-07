@@ -24,7 +24,7 @@
 }
 
 /*
- *  class Animal // another wait overriding
+ *  class Animal // another way overriding
   {
     public virtual void speak()
     {
