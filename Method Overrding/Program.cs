@@ -24,7 +24,7 @@
 }
 
 /*
- *  class Animal // another way overriding
+ *  class Animal // another way of overriding
   {
     public virtual void speak()
     {
